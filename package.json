@@ -1,23 +1,23 @@
 {
 
-  "name": "docker-test",
+  "name": "hello-node",
 
   "version": "1.0.0",
 
   "description": "",
 
-  "main": "server.js",
+  "main": "index.js",
 
   "scripts": {
 
     "test": "echo \"Error: no test specified\" && exit 1",
 
-    "start": "node server.js"
+    "start": "node index.js"
 
   },
 
-  "author": "Dana Woodman <dana@danawoodman.com> (http://danawoodman.com/)",
+  "author": "Iqbal Dhiya Ul Haqq",
 
-  "license": "ISC"
+  "license": ""
 
 }

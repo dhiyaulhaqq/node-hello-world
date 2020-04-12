@@ -18,7 +18,7 @@ This setup assume you have docker ready in your machine.
 
 1. Build docker image.
 
-   > $ docker build - t node-hello .
+   > $ docker build -t node-hello .
    
 2. Run the docker image.
 

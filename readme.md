@@ -22,8 +22,8 @@ This setup assume you have docker ready in your machine.
    
 2. Run the docker image.
 
-   > $ docker run -dp 5000:3000 node-hello
+   > $ docker run -dp 4000:3000 node-hello
    
-3. Open localhost port 5000 in your browser.
+3. Open localhost port 4000 in your browser.
 
-   > http://localhost:5000
+   > http://localhost:4000
